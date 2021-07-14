@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/marketplace-gitpages/static/js/main.5a774b8e.chunk.js",
+    "main.js.map": "/marketplace-gitpages/static/js/main.5a774b8e.chunk.js.map",
+    "runtime-main.js": "/marketplace-gitpages/static/js/runtime-main.0e6b16e7.js",
+    "runtime-main.js.map": "/marketplace-gitpages/static/js/runtime-main.0e6b16e7.js.map",
+    "static/js/2.73d27c97.chunk.js": "/marketplace-gitpages/static/js/2.73d27c97.chunk.js",
+    "static/js/2.73d27c97.chunk.js.map": "/marketplace-gitpages/static/js/2.73d27c97.chunk.js.map",
+    "static/js/3.190d0870.chunk.js": "/marketplace-gitpages/static/js/3.190d0870.chunk.js",
+    "static/js/3.190d0870.chunk.js.map": "/marketplace-gitpages/static/js/3.190d0870.chunk.js.map",
+    "static/js/4.a953a9a0.chunk.js": "/marketplace-gitpages/static/js/4.a953a9a0.chunk.js",
+    "static/js/4.a953a9a0.chunk.js.map": "/marketplace-gitpages/static/js/4.a953a9a0.chunk.js.map",
+    "static/js/5.ba864aae.chunk.js": "/marketplace-gitpages/static/js/5.ba864aae.chunk.js",
+    "static/js/5.ba864aae.chunk.js.map": "/marketplace-gitpages/static/js/5.ba864aae.chunk.js.map",
+    "index.html": "/marketplace-gitpages/index.html",
+    "static/js/2.73d27c97.chunk.js.LICENSE.txt": "/marketplace-gitpages/static/js/2.73d27c97.chunk.js.LICENSE.txt",
+    "static/js/3.190d0870.chunk.js.LICENSE.txt": "/marketplace-gitpages/static/js/3.190d0870.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e6b16e7.js",
+    "static/js/3.190d0870.chunk.js",
+    "static/js/main.5a774b8e.chunk.js"
+  ]
+}
